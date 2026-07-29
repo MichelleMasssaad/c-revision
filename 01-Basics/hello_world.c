@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main () {
-	printf("Program in C!\n ");
-	return 0;
+int main() {
+  printf("Program in C!\n ");
+  return 0;
 }
